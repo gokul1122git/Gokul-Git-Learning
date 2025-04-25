@@ -5,3 +5,4 @@ Git Learning
 4. Checkout page code
 5. Order placed page code
 6. Order successful email triggered
+7. Registered user flow code
