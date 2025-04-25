@@ -4,3 +4,4 @@ Git Learning
 3. PDP page code
 4. Checkout page code
 5. Order placed page code
+6. Order successful email triggered
